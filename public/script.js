@@ -83,7 +83,7 @@ if (leadForm) {
 
     try {
       setLoading(true);
-      const response = await fetch("/api/leads", {
+      const response = await fetch("https://one-academy.onrender.com/api/leads", {
         method: "POST",
         headers: {
           "Content-Type": "application/json"
