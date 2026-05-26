@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="1PERCENTACADEMY">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f2cf7b" />
+      <stop offset="100%" stop-color="#d6ab4f" />
+    </linearGradient>
+  </defs>
+  <rect width="120" height="120" rx="24" fill="#070707" />
+  <path d="M22 78h16V42H22v36Zm24 0h14V34H46v44Zm22 0h14V54H68v24Zm20 0h10V62H88v16Z" fill="url(#g)" />
+</svg>

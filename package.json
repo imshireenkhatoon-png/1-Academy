@@ -1,0 +1,30 @@
+{
+  "name": "1percentacademy-landing",
+  "version": "1.0.0",
+  "description": "Premium forex mentorship landing page with Google Sheets lead capture",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "forex",
+    "landing-page",
+    "express",
+    "google-sheets",
+    "lead-capture"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^2.2.2",
+    "cors": "^2.8.6",
+    "dotenv": "^16.6.1",
+    "express": "^4.22.2",
+    "googleapis": "^140.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
